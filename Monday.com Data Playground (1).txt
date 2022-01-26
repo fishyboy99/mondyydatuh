@@ -1,0 +1,3640 @@
+{
+  "data": {
+    "me": {
+      "name": "Donovan Aceron"
+    },
+    "boards": [
+      {
+        "name": "BI Team",
+        "columns": [
+          {
+            "title": "Name",
+            "id": "name",
+            "type": "name"
+          },
+          {
+            "title": "Subitems",
+            "id": "subitems",
+            "type": "subtasks"
+          },
+          {
+            "title": "Campaign",
+            "id": "dropdown0",
+            "type": "dropdown"
+          },
+          {
+            "title": "Requester",
+            "id": "person",
+            "type": "multiple-person"
+          },
+          {
+            "title": "BI Analyst",
+            "id": "people",
+            "type": "multiple-person"
+          },
+          {
+            "title": "Status",
+            "id": "status",
+            "type": "color"
+          },
+          {
+            "title": "Date",
+            "id": "date4",
+            "type": "date"
+          },
+          {
+            "title": "Urgency",
+            "id": "dropdown5",
+            "type": "dropdown"
+          },
+          {
+            "title": "Timeline",
+            "id": "timeline",
+            "type": "timerange"
+          },
+          {
+            "title": "POD #",
+            "id": "dropdown",
+            "type": "dropdown"
+          },
+          {
+            "title": "Rating",
+            "id": "rating4",
+            "type": "rating"
+          }
+        ],
+        "groups": [
+          {
+            "title": "Backlog",
+            "id": "new_group78089"
+          },
+          {
+            "title": "New",
+            "id": "new_group42875"
+          },
+          {
+            "title": "In Progress",
+            "id": "group_title"
+          },
+          {
+            "title": "Pending",
+            "id": "new_group"
+          },
+          {
+            "title": "Released",
+            "id": "new_group77825"
+          },
+          {
+            "title": "Closed",
+            "id": "new_group86412"
+          },
+          {
+            "title": "Abandoned",
+            "id": "new_group29982"
+          }
+        ],
+        "items": [
+          {
+            "name": "Can you find out if Frontier implemented an API or their new report is call API",
+            "group": {
+              "id": "new_group78089"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-14T23:24:29.072Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "New Project",
+            "group": {
+              "id": "new_group78089"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verify ConfRec field in VZstac OS report",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-16T21:03:39.011Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T20:55:57.653Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T20:49:02.742Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Weekly Review Automation",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[17],\"changed_at\":\"2021-12-16T21:02:08.159Z\"}",
+                "text": "Energy Sage"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T21:02:12.183Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"},{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler, Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":5,\"post_id\":null,\"changed_at\":\"2021-12-21T21:52:27.765Z\"}",
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-30T18:27:27.062Z\"}",
+                "text": "Low"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T21:14:46.791Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Reinstatements vs New Orders",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[17],\"changed_at\":\"2021-12-16T21:00:55.944Z\"}",
+                "text": "Energy Sage"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-30T18:28:35.151Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T21:00:59.626Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-16T21:01:01.583Z\"}",
+                "text": "Low"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T21:14:48.205Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Hardware lost report",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-30T20:56:11.432Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-30T20:56:00.144Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-30T20:56:05.278Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"},{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai, Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-30T20:58:53.401Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Qlik deployment strategy",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2147995749},{\"linkedPulseId\":2148001052},{\"linkedPulseId\":2148003574}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2022-01-13T17:19:03.126Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T17:19:09.022Z\",\"personsAndTeams\":[{\"id\":5756162,\"kind\":\"person\"}]}",
+                "text": "Christine Aceron"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-13T17:19:10.774Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-13T17:19:19.262Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-13T17:19:22.237Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-14T20:29:52.291Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Flag cross sale zips between Verizon Res/5G and ATT Res",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[5,15,13],\"changed_at\":\"2021-12-21T21:35:12.598Z\"}",
+                "text": "Verizon 5G, Verizon Residential, DirecTV (fka AT&T)"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-21T21:35:18.934Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-21T21:35:23.929Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"},{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai, Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-07\",\"changed_at\":\"2021-12-30T18:21:55.068Z\"}",
+                "text": "2022-01-07"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-21T21:35:33.282Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-21T21:35:29.657Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "DirecTV (fka AT&T):  Identifying Offices w/ High Credit Scoring Submissions vs. Actual Sales (SARAPlus Sales Dashboard/DirecTV Stream/Daily)",
+            "group": {
+              "id": "new_group42875"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[13],\"changed_at\":\"2021-12-10T15:16:09.742Z\"}",
+                "text": "DirecTV (fka AT&T)"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-28T16:46:18.953Z\",\"personsAndTeams\":[{\"id\":26046159,\"kind\":\"person\"}]}",
+                "text": "Jon Holbrook"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-10T15:16:17.818Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-06\",\"changed_at\":\"2021-12-30T18:09:45.313Z\"}",
+                "text": "2022-01-06"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-10T15:16:38.900Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-10T15:16:41.302Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Demo how to pull monday.com via API using Python",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2022-01-10T16:52:22.937Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-10T16:52:16.626Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-10T16:52:20.268Z\",\"personsAndTeams\":[{\"id\":26249496,\"kind\":\"person\"}]}",
+                "text": "Donovan Aceron"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-10T16:52:37.519Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-31\",\"changed_at\":\"2022-01-13T15:11:04.662Z\"}",
+                "text": "2022-01-31"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-10T16:52:32.715Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-10T16:52:35.379Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Need to figure out what to do with inactive records in Qlik",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2022-01-12T21:21:26.716Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-12T21:21:28.168Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-12T21:21:30.523Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-14T20:29:43.910Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-31\",\"changed_at\":\"2022-01-12T21:21:34.290Z\"}",
+                "text": "2022-01-31"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-12T21:21:36.140Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-12T21:21:38.853Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-14T20:29:40.610Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Add Vault data to the Boost daily sales report",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2116548449},{\"linkedPulseId\":2116550447},{\"linkedPulseId\":2116551390}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[9],\"changed_at\":\"2022-01-06T20:53:49.829Z\"}",
+                "text": "Boost"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-06T20:53:51.236Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-06T20:53:55.640Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-06T20:53:57.812Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-24\",\"changed_at\":\"2022-01-12T19:53:28.856Z\"}",
+                "text": "2022-01-24"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T14:42:25.629Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2022-01-14\",\"from\":\"2022-01-06\",\"changed_at\":\"2022-01-06T20:57:39.547Z\"}",
+                "text": "2022-01-06 - 2022-01-14"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-06T20:57:45.747Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":3,\"changed_at\":\"2022-01-14T20:28:31.740Z\"}",
+                "text": "3"
+              }
+            ]
+          },
+          {
+            "name": "QC the FG-Energy Qlik app on charge back %",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[18],\"changed_at\":\"2022-01-07T16:56:14.099Z\"}",
+                "text": "Finance Guru - Energy"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:42:46.448Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-07T16:56:21.544Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-07T17:11:56.703Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-21\",\"changed_at\":\"2022-01-14T20:27:41.196Z\"}",
+                "text": "2022-01-21"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-14T20:27:43.833Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-07T16:56:26.998Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":4,\"changed_at\":\"2022-01-14T20:27:47.661Z\"}",
+                "text": "4"
+              }
+            ]
+          },
+          {
+            "name": "NAM KPI Report",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-13T15:56:10.864Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:46:13.419Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-13T15:55:51.297Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2021-12-14T22:00:20.134Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-10T14:35:34.110Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-13T15:56:03.188Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2022-01-14\",\"from\":\"2022-01-10\",\"changed_at\":\"2022-01-10T14:35:47.034Z\"}",
+                "text": "2022-01-10 - 2022-01-14"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-13T15:55:54.569Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-14T20:27:48.565Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Verizon HC Report for Hardware Monitoring",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2149838240},{\"linkedPulseId\":2149842344},{\"linkedPulseId\":2149847327},{\"linkedPulseId\":2149854307},{\"linkedPulseId\":2149860468},{\"linkedPulseId\":2149863922}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15,5],\"changed_at\":\"2021-12-16T20:49:59.747Z\"}",
+                "text": "Verizon Residential, Verizon 5G"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-30T18:28:51.318Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T20:47:47.040Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2021-12-30T18:17:53.498Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-13T21:22:30.731Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T20:48:21.594Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T20:49:00.111Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Frontier daily Gig tracking by office",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[19],\"changed_at\":\"2022-01-10T14:47:12.191Z\"}",
+                "text": "Frontier Residetial"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-10T14:47:14.693Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-10T14:47:16.570Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-13T20:28:36.921Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-10T14:47:26.875Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T14:47:19.289Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-10T14:47:30.885Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Document all manual/new reports before sail date",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2021-12-14T15:32:36.722Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-14T15:32:18.216Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-14T15:32:19.729Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-10T14:39:46.222Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-12\",\"changed_at\":\"2021-12-14T15:43:35.992Z\"}",
+                "text": "2022-01-12"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-14T15:32:25.032Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-14T15:32:28.588Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "ARC Web Query Sales Time",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2087956550}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-16T21:14:30.744Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-16T21:14:32.635Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T21:14:34.192Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2021-12-30T18:21:34.604Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-26\",\"changed_at\":\"2022-01-14T23:25:49.580Z\"}",
+                "text": "2022-01-26"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T21:14:40.469Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T21:14:44.245Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verizon 5G ARC Web Sales Query",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2038031338},{\"linkedPulseId\":2087952829}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[5],\"changed_at\":\"2021-12-16T20:50:53.297Z\"}",
+                "text": "Verizon 5G"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-30T18:28:57.727Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-16T20:50:55.277Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2021-12-30T18:18:16.977Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-28\",\"changed_at\":\"2022-01-14T23:24:55.969Z\"}",
+                "text": "2022-01-28"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-16T20:51:02.476Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T20:51:07.081Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Push Reports back by 2 Minutes",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-15T15:29:10.439Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-15T15:29:15.455Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-15T15:29:13.389Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2021-12-15T15:29:21.314Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-26\",\"changed_at\":\"2022-01-14T23:25:41.753Z\"}",
+                "text": "2022-01-26"
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-15T15:29:47.845Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Build a regression model for CT",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-19T18:01:47.808Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-19T18:01:50.414Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-19T18:01:55.153Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"},{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai, Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-19T20:59:17.048Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-31\",\"changed_at\":\"2022-01-19T20:59:01.701Z\"}",
+                "text": "2022-01-31"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-19T20:59:04.309Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-19T20:59:13.147Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-19T18:01:57.588Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "GenericValue Checklist",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2022-01-06T20:26:03.700Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-06T20:26:06.128Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-19T22:18:57.991Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-10T14:36:09.259Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-10T14:42:47.057Z\"}",
+                "text": "Low"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-06T20:26:16.406Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":3,\"changed_at\":\"2022-01-14T20:29:49.557Z\"}",
+                "text": "3"
+              }
+            ]
+          },
+          {
+            "name": "Add Q1WSV55216JB to the Unimax column for NLAD daily report",
+            "group": {
+              "id": "group_title"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-21T17:33:27.792Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-21T17:33:29.935Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-21T17:33:34.392Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2022-01-21T17:33:35.824Z\"}",
+                "text": "Working on it"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-24\",\"changed_at\":\"2022-01-21T17:33:42.452Z\"}",
+                "text": "2022-01-24"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-21T17:33:46.014Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-21T17:33:49.402Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-21T17:33:51.167Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Verizon 5G Quality Scorecard",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2087904155},{\"linkedPulseId\":2134466995},{\"linkedPulseId\":2134469105}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[5],\"changed_at\":\"2021-12-30T18:01:19.716Z\"}",
+                "text": "Verizon 5G"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-30T18:29:01.398Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-30T18:01:15.755Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2022-01-13T20:28:56.575Z\"}",
+                "text": "Pending Feedback"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-25\",\"changed_at\":\"2022-01-13T20:36:07.895Z\"}",
+                "text": "2022-01-25"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-30T18:05:39.239Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2022-01-04\",\"from\":\"2021-12-28\",\"changed_at\":\"2021-12-30T18:05:26.267Z\"}",
+                "text": "2021-12-28 - 2022-01-04"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-30T20:58:42.920Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "GB Bulletin Report",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[14],\"changed_at\":\"2021-12-10T15:20:27.905Z\"}",
+                "text": "Givebridge"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:45:59.573Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-10T15:20:47.907Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"},{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan, Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2022-01-10T14:35:05.976Z\"}",
+                "text": "Stuck"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-21\",\"changed_at\":\"2022-01-10T14:37:54.899Z\"}",
+                "text": "2022-01-21"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-10T15:20:59.989Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-15T15:30:05.712Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "PFS Daily Scorecard",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":1999053522},{\"linkedPulseId\":1999069903},{\"linkedPulseId\":1999683082}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[12],\"changed_at\":\"2021-12-08T19:35:57.933Z\"}",
+                "text": "PFS"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:46:02.553Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-08T19:35:42.296Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2022-01-11T16:44:11.586Z\"}",
+                "text": "Stuck"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2021-12-30T18:07:56.474Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-17\",\"from\":\"2021-12-08\",\"changed_at\":\"2021-12-08T19:38:46.446Z\"}",
+                "text": "2021-12-08 - 2021-12-17"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-16T20:40:18.737Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Detail High Risk FMR Report",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-07T16:52:05.467Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:42:33.913Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-07T16:51:54.838Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2022-01-12T15:59:35.906Z\"}",
+                "text": "Pending Feedback"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-11T16:41:03.685Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-07T16:52:09.444Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2022-01-21\",\"from\":\"2022-01-10\",\"changed_at\":\"2022-01-10T14:41:42.969Z\"}",
+                "text": "2022-01-10 - 2022-01-21"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-07T16:52:11.715Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-14T20:23:41.967Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Frontier Xactly File Automation",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-06T16:26:22.980Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:26:10.129Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2022-01-12T21:21:47.393Z\"}",
+                "text": "Stuck"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-10T14:35:57.347Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:28:12.368Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-08\",\"from\":\"2021-12-06\",\"changed_at\":\"2021-12-06T16:28:32.582Z\"}",
+                "text": "2021-12-06 - 2021-12-08"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-06T16:28:01.393Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Automate the office level for Everise report",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[7],\"changed_at\":\"2021-12-06T16:27:33.279Z\"}",
+                "text": "Everise"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:09:06.267Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2021-12-14T16:54:34.969Z\"}",
+                "text": "Stuck"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-10\",\"changed_at\":\"2021-12-06T16:09:21.676Z\"}",
+                "text": "2021-12-10"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:09:27.670Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-10\",\"from\":\"2021-12-06\",\"changed_at\":\"2021-12-06T16:09:25.131Z\"}",
+                "text": "2021-12-06 - 2021-12-10"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-06T16:09:31.527Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Net Rev Oct 2021",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2021-12-30T16:35:39.190Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-30T16:35:32.613Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2022-01-18T20:28:16.570Z\"}",
+                "text": "Pending Feedback"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-10T14:36:04.721Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T14:36:01.473Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":5,\"changed_at\":\"2022-01-14T20:22:58.536Z\"}",
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "name": "Update AW Quality Report",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2140539256},{\"linkedPulseId\":2140548873}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-12T18:17:49.373Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-12T18:17:39.755Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-12T18:19:50.448Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"},{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan, Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2022-01-18T22:46:48.680Z\"}",
+                "text": "Pending Feedback"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-18\",\"changed_at\":\"2022-01-12T18:17:46.349Z\"}",
+                "text": "2022-01-18"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-12T18:17:43.903Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-12T18:17:41.678Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":3,\"changed_at\":\"2022-01-14T20:29:25.181Z\"}",
+                "text": "3"
+              }
+            ]
+          },
+          {
+            "name": "Update AW Bulletin Report",
+            "group": {
+              "id": "new_group"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-12T18:17:49.373Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-12T18:17:39.755Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-12T18:19:46.992Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"},{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan, Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2022-01-19T20:21:00.703Z\"}",
+                "text": "Pending Feedback"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-18\",\"changed_at\":\"2022-01-12T18:17:46.349Z\"}",
+                "text": "2022-01-18"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-12T18:17:43.903Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-12T18:17:41.678Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": "{\"rating\":4,\"changed_at\":\"2022-01-14T20:29:20.707Z\"}",
+                "text": "4"
+              }
+            ]
+          },
+          {
+            "name": "RAM Report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-07T19:21:52.232Z\"}",
+                "text": "AT&T Retail"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-07T19:21:57.286Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-30T18:01:10.898Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-07T19:22:09.333Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-10\",\"from\":\"2021-12-07\",\"changed_at\":\"2021-12-07T19:29:13.358Z\"}",
+                "text": "2021-12-07 - 2021-12-10"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-07T19:22:11.685Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Revise Frontier Reporting",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2025617496},{\"linkedPulseId\":2025619722}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[19],\"changed_at\":\"2021-12-30T18:02:06.854Z\"}",
+                "text": "Frontier Residetial"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-30T18:02:13.894Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-30T18:02:24.610Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-15T15:29:52.390Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Fios Data & HC - Daily Report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2019091026},{\"linkedPulseId\":2038004509}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-13T20:55:13.913Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-13T20:55:27.702Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-30T18:08:11.740Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-13T20:56:07.724Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Week over week  VZ Fios HC Productivity (SC) report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2022-01-13T15:07:04.518Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:06:51.984Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-13T15:06:53.370Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-13T15:06:55.112Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-13\",\"changed_at\":\"2022-01-13T15:07:10.980Z\"}",
+                "text": "2022-01-13"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-13T15:07:08.167Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-13T15:07:14.093Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "New Request: Weekly Headcount Report, North America",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2022-01-11T17:28:36.074Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T17:28:32.358Z\",\"personsAndTeams\":[{\"id\":5756162,\"kind\":\"person\"}]}",
+                "text": "Christine Aceron"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-11T17:28:33.978Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-12T15:10:20.205Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-11\",\"changed_at\":\"2022-01-11T17:28:40.458Z\"}",
+                "text": "2022-01-11"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-11T17:28:42.349Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2022-01-11T17:28:47.750Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "AW 2019 scoring agent tenure analysis",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T14:37:38.255Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-10T14:36:52.263Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-10T14:36:53.703Z\",\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-11T16:27:11.850Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-10\",\"changed_at\":\"2022-01-10T14:36:57.436Z\"}",
+                "text": "2022-01-10"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T14:36:59.774Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-10T14:37:01.887Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Identify high performing stores on SECOND_USE_90",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-10T17:05:19.619Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-11T16:43:29.311Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-10T17:07:33.546Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-14T20:35:36.930Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-10\",\"changed_at\":\"2022-01-10T17:07:56.327Z\"}",
+                "text": "2022-01-10"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-10T17:07:54.530Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2022-01-10T17:08:00.097Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Agent Avg tenure AW",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-05T19:01:15.890Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-05T19:30:06.498Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-05T19:24:01.284Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"},{\"id\":26299767,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai, Sufia Khan"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-06T17:11:15.801Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-05\",\"changed_at\":\"2022-01-05T19:18:02.924Z\"}",
+                "text": "2022-01-05"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-05T19:18:00.149Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2022-01-05T19:17:58.001Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Need to QC the training ID data pull from client website",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-14T23:19:39.331Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:10:22.395Z\",\"personsAndTeams\":[{\"id\":5242713,\"kind\":\"person\"}]}",
+                "text": "Jessica Ahn"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-14T23:19:42.412Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-06T19:24:13.360Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-03\",\"changed_at\":\"2022-01-13T15:09:23.025Z\"}",
+                "text": "2022-01-03"
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Automate Finance Guru - Energy ARC file import",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[18,6],\"changed_at\":\"2021-12-27T16:37:15.020Z\"}",
+                "text": "Finance Guru - Energy, Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-27T16:37:18.325Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-27T16:37:23.189Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-29T19:35:29.950Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-31\",\"changed_at\":\"2021-12-27T16:37:28.964Z\"}",
+                "text": "2021-12-31"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-27T16:37:32.390Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verify the weekly SCI head count for AW campaigns",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-27T19:12:00.677Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-27T19:11:56.499Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-10T14:34:15.309Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-31\",\"changed_at\":\"2021-12-27T19:12:03.813Z\"}",
+                "text": "2021-12-31"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-27T19:12:06.552Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-31\",\"from\":\"2021-12-27\",\"changed_at\":\"2021-12-27T19:12:13.870Z\"}",
+                "text": "2021-12-27 - 2021-12-31"
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "SC Verizon Res bonus report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-21T16:16:40.111Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-21T16:16:23.712Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-21T16:16:25.835Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-27T15:21:20.555Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-27\",\"changed_at\":\"2021-12-22T22:35:08.529Z\"}",
+                "text": "2021-12-27"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-21T16:16:30.604Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-21T16:16:33.513Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Figure out a work around for the Verizon 5G ARC auto import",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-27T19:15:03.499Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-27T19:15:54.449Z\",\"personsAndTeams\":[{\"id\":3550485,\"kind\":\"person\"}]}",
+                "text": "Jared Kerzner"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-27T19:15:05.963Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-27T23:55:38.006Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-27\",\"changed_at\":\"2021-12-27T19:15:15.843Z\"}",
+                "text": "2021-12-27"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-27T19:15:18.233Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Document all active tasks in BI server",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[16],\"changed_at\":\"2021-12-20T15:23:04.461Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-20T15:22:46.591Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-20T15:22:48.436Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-22T17:52:51.169Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-22\",\"changed_at\":\"2021-12-20T15:22:52.786Z\"}",
+                "text": "2021-12-22"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-20T15:22:56.164Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-20T15:23:00.963Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verizon report request from Harry",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2021-12-21T17:17:26.298Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:10:04.824Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-21T17:17:23.215Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-21T21:48:23.570Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-21\",\"changed_at\":\"2021-12-21T17:17:32.416Z\"}",
+                "text": "2021-12-21"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-21T21:48:12.479Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-21T21:48:18.837Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Automate Quill Key Metrics Report for Anthony",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[8],\"changed_at\":\"2021-12-08T17:58:55.091Z\"}",
+                "text": "Quill Plus"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-14T22:01:20.047Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-07T18:09:56.458Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-05T15:06:07.914Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-21\",\"changed_at\":\"2021-12-14T22:01:32.058Z\"}",
+                "text": "2021-12-21"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-07T18:11:15.575Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2022-01-03\",\"from\":\"2021-12-20\",\"changed_at\":\"2021-12-16T16:18:25.187Z\"}",
+                "text": "2021-12-20 - 2022-01-03"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-08T17:58:43.095Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Add final tasks for AW bulletin",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[1],\"changed_at\":\"2022-01-13T15:09:59.980Z\"}",
+                "text": "Assurance Wireless"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:58.286Z\",\"personsAndTeams\":[{\"id\":26172014,\"kind\":\"person\"}]}",
+                "text": "Emily Williams"
+              },
+              {
+                "id": "people",
+                "value": "{\"personsAndTeams\":[{\"id\":26299767,\"kind\":\"person\"}]}",
+                "text": "Sufia Khan"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-20T17:44:44.296Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-20\",\"changed_at\":\"2021-12-16T23:15:56Z\"}",
+                "text": "2021-12-20"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T23:16:11Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-16T23:16:18Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Vanguard ARC import automation",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-06T16:27:19.143Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:35.926Z\",\"personsAndTeams\":[{\"id\":3550484,\"kind\":\"person\"}]}",
+                "text": "Stephen Kozlowski"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:26:17.311Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-20T15:14:02Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-17\",\"changed_at\":\"2022-01-13T15:08:50.885Z\"}",
+                "text": "2021-12-17"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:28:20.861Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-17\",\"from\":\"2021-12-16\",\"changed_at\":\"2021-12-06T16:28:49.734Z\"}",
+                "text": "2021-12-16 - 2021-12-17"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-06T16:28:08.277Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verizon 5G ARC import automation",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-06T16:27:17.068Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:37.774Z\",\"personsAndTeams\":[{\"id\":3550484,\"kind\":\"person\"}]}",
+                "text": "Stephen Kozlowski"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:26:14.910Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-20T15:14:05Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-16\",\"changed_at\":\"2022-01-13T15:09:07.580Z\"}",
+                "text": "2021-12-16"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:28:16.903Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-16\",\"from\":\"2021-12-15\",\"changed_at\":\"2021-12-06T16:28:45.967Z\"}",
+                "text": "2021-12-15 - 2021-12-16"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-06T16:28:06.779Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "RAM Report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[10],\"changed_at\":\"2021-12-07T19:21:46.854Z\"}",
+                "text": "Charter"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-07T19:19:58.802Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-05T15:06:22.827Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-15\",\"changed_at\":\"2021-12-14T16:50:52.796Z\"}",
+                "text": "2021-12-15"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-07T19:22:07.749Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-10\",\"from\":\"2021-12-07\",\"changed_at\":\"2021-12-07T19:29:06.157Z\"}",
+                "text": "2021-12-07 - 2021-12-10"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-07T19:20:15.316Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Energy Sage Import ARC Import automation",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-06T16:26:28.863Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:39.297Z\",\"personsAndTeams\":[{\"id\":3550484,\"kind\":\"person\"}]}",
+                "text": "Stephen Kozlowski"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:26:13.262Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-20T15:14:08Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-14\",\"changed_at\":\"2022-01-13T15:08:57.904Z\"}",
+                "text": "2021-12-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:28:15.413Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-14\",\"from\":\"2021-12-13\",\"changed_at\":\"2021-12-06T16:28:41.716Z\"}",
+                "text": "2021-12-13 - 2021-12-14"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-06T16:28:05.062Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "AW Top Up Automation",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[6],\"changed_at\":\"2021-12-06T16:26:25.709Z\"}",
+                "text": "Finance"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:41.283Z\",\"personsAndTeams\":[{\"id\":3550484,\"kind\":\"person\"}]}",
+                "text": "Stephen Kozlowski"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-06T16:26:11.660Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-20T15:13:59Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-09\",\"changed_at\":\"2022-01-13T15:09:12.746Z\"}",
+                "text": "2021-12-09"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-06T16:28:13.823Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-10\",\"from\":\"2021-12-09\",\"changed_at\":\"2021-12-06T16:28:36.831Z\"}",
+                "text": "2021-12-09 - 2021-12-10"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-06T16:28:03.379Z\"}",
+                "text": "All"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Add Supreme Concepts Innovations - NV to the Verizon 5G distro",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[5],\"changed_at\":\"2021-12-07T19:29:36.330Z\"}",
+                "text": "Verizon 5G"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2022-01-13T15:09:42.962Z\",\"personsAndTeams\":[{\"id\":3550484,\"kind\":\"person\"}]}",
+                "text": "Stephen Kozlowski"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-07T16:05:51.088Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-07T16:42:03.539Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-07\",\"changed_at\":\"2021-12-07T16:06:03.814Z\"}",
+                "text": "2021-12-07"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-07T16:06:00.548Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-07T16:06:08.582Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Verizon 5G - SCI Leadership Report",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":1970242634},{\"linkedPulseId\":1970243806},{\"linkedPulseId\":1970248448},{\"linkedPulseId\":1994995016}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[5],\"changed_at\":\"2021-12-02T00:15:15.378Z\"}",
+                "text": "Verizon 5G"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-02T00:14:36.413Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-07T19:57:49Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-07\",\"changed_at\":\"2021-12-02T00:22:48.339Z\"}",
+                "text": "2021-12-07"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-02T00:14:43.295Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-03\",\"from\":\"2021-11-29\",\"changed_at\":\"2021-12-02T00:14:50.306Z\"}",
+                "text": "2021-11-29 - 2021-12-03"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-02T00:14:52.732Z\"}",
+                "text": "2"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Update triple play % 11/15 to 11/30",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-01T17:42:29.363Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-01T19:14:16.856Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-01\",\"changed_at\":\"2021-12-01T17:22:33.246Z\"}",
+                "text": "2021-12-01"
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "LOF Metric Update",
+            "group": {
+              "id": "new_group77825"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{\"linkedPulseIds\":[{\"linkedPulseId\":2088355172},{\"linkedPulseId\":2088356077}]}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[15],\"changed_at\":\"2022-01-14T23:32:53.038Z\"}",
+                "text": "Verizon Residential"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2022-01-14T23:31:53.656Z\",\"personsAndTeams\":[{\"id\":26299765,\"kind\":\"person\"}]}",
+                "text": "Ryan Zeigler"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2022-01-14T23:32:41.398Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2022-01-14\",\"changed_at\":\"2022-01-14T23:32:00.098Z\"}",
+                "text": "2022-01-14"
+              },
+              {
+                "id": "dropdown5",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": null,
+                "text": null
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Pause Earthlink Reports after Friday this week",
+            "group": {
+              "id": "new_group86412"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[11],\"changed_at\":\"2021-12-08T19:21:42.706Z\"}",
+                "text": "Earthlink"
+              },
+              {
+                "id": "person",
+                "value": "{\"changed_at\":\"2021-12-08T19:21:45.766Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-08T19:21:47.774Z\",\"personsAndTeams\":[{\"id\":26299768,\"kind\":\"person\"}]}",
+                "text": "Mohammad Baseer"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-13T16:34:42.958Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-10\",\"changed_at\":\"2021-12-08T19:21:52.178Z\"}",
+                "text": "2021-12-10"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[2],\"changed_at\":\"2021-12-08T19:22:30.163Z\"}",
+                "text": "Medium"
+              },
+              {
+                "id": "timeline",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-08T19:22:33.583Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "Just Energy Distro Update",
+            "group": {
+              "id": "new_group86412"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[4],\"changed_at\":\"2021-12-01T20:24:39.941Z\"}",
+                "text": "Just Energy"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-01T16:22:21.739Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-06T21:42:25.663Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-06\",\"icon\":null,\"changed_at\":\"2021-12-06T16:08:04.057Z\"}",
+                "text": "2021-12-06"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-01T20:24:10.362Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-10\",\"from\":\"2021-12-06\",\"changed_at\":\"2021-12-06T16:08:10.470Z\"}",
+                "text": "2021-12-06 - 2021-12-10"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-01T16:22:59.598Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "name": "CT Daily Sales Distro",
+            "group": {
+              "id": "new_group86412"
+            },
+            "column_values": [
+              {
+                "id": "subitems",
+                "value": "{}",
+                "text": ""
+              },
+              {
+                "id": "dropdown0",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-01T20:24:36.945Z\"}",
+                "text": "CT"
+              },
+              {
+                "id": "person",
+                "value": null,
+                "text": ""
+              },
+              {
+                "id": "people",
+                "value": "{\"changed_at\":\"2021-12-01T15:41:03.672Z\",\"personsAndTeams\":[{\"id\":26249495,\"kind\":\"person\"}]}",
+                "text": "Zeshun Cai"
+              },
+              {
+                "id": "status",
+                "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2021-12-02T14:50:29.751Z\"}",
+                "text": "Done"
+              },
+              {
+                "id": "date4",
+                "value": "{\"date\":\"2021-12-01\",\"icon\":null,\"changed_at\":\"2021-12-01T17:23:17.568Z\"}",
+                "text": "2021-12-01"
+              },
+              {
+                "id": "dropdown5",
+                "value": "{\"ids\":[1],\"changed_at\":\"2021-12-01T16:27:04.065Z\"}",
+                "text": "High"
+              },
+              {
+                "id": "timeline",
+                "value": "{\"to\":\"2021-12-03\",\"from\":\"2021-12-01\",\"changed_at\":\"2021-12-01T16:22:42.084Z\"}",
+                "text": "2021-12-01 - 2021-12-03"
+              },
+              {
+                "id": "dropdown",
+                "value": "{\"ids\":[3],\"changed_at\":\"2021-12-01T15:41:48.092Z\"}",
+                "text": "3"
+              },
+              {
+                "id": "rating4",
+                "value": null,
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "account_id": 1600951
+}
